@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm parimal</h1>
+<h1 align="center">Hola 👋, I'm parimal</h1>
 <h3 align="center">A vissionary fullstack web developer from India</h3>
 <img src="https://media0.giphy.com/media/BaRZyxBaUCO2u37k96/giphy.gif?cid=ecf05e47162fjnrat5mnkl82atni5xyvco28xvj6lyxtizld&rid=giphy.gif&ct=g" align="center" style="width: 100% , height:200px " />
 
