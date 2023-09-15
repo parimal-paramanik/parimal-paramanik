@@ -1,5 +1,5 @@
-<h1 align="center">Hii 👋, I'm parimal</h1>
-<h3 align="center">A vissionary fullstack web developer from India</h3>
+<h1 align="center">Hii 👋, I'm Parimal</h1>
+<h3 align="center">"A visionary Full Stack Web Developer hailing from India."</h3>
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bqw000tcr8ehjz0n930whmnnl9hafzmquixv8yyp&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width: 1100px; height:400px ;" />
 
 
